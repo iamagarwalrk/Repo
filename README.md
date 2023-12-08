@@ -1,4 +1,4 @@
-![download](https://github.com/iamagarwalrk/Repo/assets/121665145/4f99e38a-0dfa-4a10-b9d4-1de7c61db19a)# REPO @RK
+# REPO @RK
 
 **Unveiling the Power of Data**
 : A comprehensive repository of data science projects showcasing insightful analyses, predictive modeling, and impactful visualizations. Dive into the world of data with cutting-edge techniques and real-world applications. 📊✨ 
