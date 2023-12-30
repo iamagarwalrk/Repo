@@ -39,4 +39,4 @@ To run the Jupyter Notebook locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/linear-regression-car-prices.git
+   git clone https://github.com//iamagarwalrk/Repo/linear-regression-car-prices.git
